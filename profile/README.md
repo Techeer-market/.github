@@ -1,4 +1,27 @@
-## Hi there 👋
+## Techeer-market
+2023 테커 내 중고거래를 위한 웹 플랫폼, 테커 마켓 
+
+---
+<br>
+
+[API Docs](https://hdayon.notion.site/API-9e28dd92dc194e1c85f6e801877a2432?pvs=4)
+
+<br>
+
+### 개발스택
+
+- 프론트엔드 : TypeScript, React, Styled-components, Vite, Prettier, Eslint, Sentry , MSW,react-query ,redux
+- 백엔드 :  Springboot 2.7 (Java 11 , gradle)
+- DB : PostgreSQL, H2
+- Dev/Ops : EC2 AWS S3 Bucket, Netty
+
+  <br>
+
+### Member 
+| 이름 | 홍다연 | 임성한 | 김유라 | 조은주 | 하재민 |
+| --- | --- | --- | --- | --- | --- |
+| 역할  | Leader, Backend | Backend | Frontend | Frontend | Frontend |
+| 깃허브 | [Dayeon-Hong](https://github.com/Dayeon-Hong) | [seonghanIm](https://github.com/seonghanIm) | [yura0302](https://github.com/yura0302) | [dmswn1004](https://github.com/dmswn1004) | [penloo](https://github.com/penloo) |
 
 <!--
 
