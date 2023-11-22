@@ -5,13 +5,11 @@
 
 [API Docs](https://hdayon.notion.site/API-9e28dd92dc194e1c85f6e801877a2432?pvs=4)
 
-<br>
-
 ### 개발스택
 
-- 프론트엔드 : TypeScript, React, Styled-components, Vite, Prettier, Eslint, Sentry , MSW,react-query ,redux
+- 프론트엔드 : TypeScript, React, Styled-components, Vite, Prettier, Eslint, Sentry, MSW,react-query,redux
 - 백엔드 :  Springboot 2.7 (Java 11 , gradle)
-- DB : PostgreSQL, H2
+- DB : PostgreSQL
 - Dev/Ops : EC2 AWS S3 Bucket, Netty
 
   <br>
