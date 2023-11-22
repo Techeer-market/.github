@@ -1,7 +1,6 @@
 ## Techeer-market
 2023 테커 내 중고거래를 위한 웹 플랫폼, 테커 마켓 
 
----
 <br>
 
 [API Docs](https://hdayon.notion.site/API-9e28dd92dc194e1c85f6e801877a2432?pvs=4)
