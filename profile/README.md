@@ -150,9 +150,9 @@ https://documenter.getpostman.com/view/27567744/2s9Ykn9N3V
 <br>
 
 ## Member 
-| 이름 | 홍다연 | 임성한 | 김유라 | 조은주 | 하재민 |
-| --- | --- | --- | --- | --- | --- |
-| 역할  | Leader, Backend | Backend | Frontend | Frontend | Frontend |
-| 깃허브 | [Dayeon-Hong](https://github.com/Dayeon-Hong) | [seonghanIm](https://github.com/seonghanIm) | [yura0302](https://github.com/yura0302) | [dmswn1004](https://github.com/dmswn1004) | [penloo](https://github.com/penloo) |
+| 이름 | 홍다연 | 김유라 | 조은주 | 하재민 |
+| --- |  --- | --- | --- | --- |
+| 역할  | Leader, Backend | Frontend | Frontend | Frontend |
+| 깃허브 | [Dayeon-Hong](https://github.com/Dayeon-Hong) | [yura0302](https://github.com/yura0302) | [dmswn1004](https://github.com/dmswn1004) | [penloo](https://github.com/penloo) |
 
 <br>
