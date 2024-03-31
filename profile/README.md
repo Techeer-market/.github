@@ -12,8 +12,6 @@
 <br>
 <br>
 
-<br>
-
 ## 📚 Tech Stack
 
 | Frontend | Backend | Database&Storage | DevOps | Test |
