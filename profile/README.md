@@ -30,7 +30,8 @@
 
 ## ⛺️ ERD
 
-![TecheerMacket drawio](https://github.com/Techeer-market/.github/assets/95288297/90b69081-2ea4-468b-80a8-b9f548b80fe7)
+![ERD](https://github.com/Techeer-market/.github/assets/95288297/641c44d6-ce34-4297-95b8-e9fa28b2a089)
+
 
 
 <br>
